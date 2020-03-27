@@ -1,0 +1,31 @@
+{
+  "name": "aobabot",
+  "version": "1.0.0",
+  "description": "Aoba Bot ver.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haaaaaaru/AobaBot-Node.js-ver.git"
+  },
+  "author": "Haru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haaaaaaru/AobaBot-Node.js-ver/issues"
+  },
+  "homepage": "https://github.com/haaaaaaru/AobaBot-Node.js-ver#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "cheerio-httpcli": "^0.7.4",
+    "cli-table": "^0.3.1",
+    "discord.js": "^12.0.2",
+    "fs": "0.0.1-security",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
